@@ -1,5 +1,11 @@
 /node_modules
+/public/hot
 /public/storage
-Homestead.yaml
+/storage/*.key
+/.idea
+/.vagrant
 Homestead.json
-/.vscode/
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
