@@ -13,7 +13,7 @@
     </head>
     <body>
         <div class="main">
-            <a class="mainLink" href="">Подобрать стажировку</a>
+            <a class="mainLink" href="/interships">Подобрать стажировку</a>
         </div>
     </body>
 </html>

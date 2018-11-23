@@ -12,3 +12,4 @@
 */
 
 Route::get('/', 'SearchController@welcomePage');
+Route::get('/interships', 'Searchcontroller@getInterships');
