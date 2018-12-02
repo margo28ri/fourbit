@@ -1,5 +1,5 @@
 .main {
-    background: #46ACDD;
+    background: rgb(187, 241, 239);
     width: 100%;
     height: 100vh;
     display: flex;
@@ -8,12 +8,12 @@
 }
 
 .mainLink { /* Здесь мы стилизуем кнопку поиска */
-    background: rgb(54, 107, 156);
+    background: rgb(187, 166, 211);
     padding: 4px 6px 4px 6px;
-    border: solid rgb(12, 25, 99);
+    border: solid rgb(84, 65, 90);
     border-width: 0px 0px 3px 3px;
     border-radius: 3px;
-    color:white;
+    color:rgb(246, 250, 0);
     font-weight: 600
 }
 
