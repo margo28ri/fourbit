@@ -13,3 +13,13 @@
 
 Route::get('/', 'SearchController@welcomePage');
 Route::get('/interships', 'Searchcontroller@getInterships');
+
+Route::get('/interships', function (){
+    $interships = DB::table('internships')->get();
+    return view('interships.index', compact('interships'));
+});
+
+Route::get('/interships/{intership}', function ($id) {
+    $intership = DB::table('internships')->find($id);
+    return view('interships.show', compact('intership'));
+});
