@@ -12,5 +12,8 @@
          <table> <li>{{ $intership->title}}</li></table> 
       @endforeach 
     </ul>
+    <div class="happy">
+
+    </div>
  </body>
  </html>

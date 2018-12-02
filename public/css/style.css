@@ -1,5 +1,5 @@
 .main {
-    background: rgb(187, 241, 239);
+    background-image: url(2.jpg);
     width: 100%;
     height: 100vh;
     display: flex;
@@ -20,4 +20,8 @@
 .mainLink:hover {
     color: white;
     text-decoration: none;/* Убрать нижнее подчёркивание у ссылок */
+}
+
+.happy {
+    background-image: url(2.jpg);
 }

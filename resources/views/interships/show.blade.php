@@ -8,5 +8,8 @@
     <h1 align="center" style="color: white">Подобранные стажировки</h1>
     <hr color="blue">
     <h1>{{ $intership->description}}</h1>
+    <div class="happy">
+
+    </div>  
 </body>
 </html>
