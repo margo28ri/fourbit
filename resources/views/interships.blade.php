@@ -2,7 +2,7 @@
  <html land="en">
  <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>Стажировки</title>
  </head>
  <body style = "background-color: #DF8C8C">
     <h1 align="center" style="color: white">Подобранные стажировки</h1>
@@ -13,7 +13,7 @@
       @endforeach 
     </ul>
     <div class="happy">
-
+    
     </div>
  </body>
  </html>
