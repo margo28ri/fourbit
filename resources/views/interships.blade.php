@@ -13,7 +13,6 @@
       @endforeach 
     </ul>
     <div class="happy">
-    
-    </div>
+
  </body>
  </html>
