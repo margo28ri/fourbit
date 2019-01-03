@@ -1,5 +1,5 @@
 .main {
-    background-image: url(2.jpg);
+    background: rgb(224, 187, 193);
     width: 100%;
     height: 100vh;
     display: flex;
@@ -8,9 +8,9 @@
 }
 
 .mainLink { /* Здесь мы стилизуем кнопку поиска */
-    background: rgb(187, 166, 211);
+    background: rgb(147, 148, 226);
     padding: 4px 6px 4px 6px;
-    border: solid rgb(84, 65, 90);
+    border: solid rgb(194, 159, 165);
     border-width: 0px 0px 3px 3px;
     border-radius: 3px;
     color:rgb(246, 250, 0);
@@ -23,5 +23,7 @@
 }
 
 .happy {
-    background-image: url(3.jpg);
+    background: rgb(230, 179, 151);
+    width: 100%;
+    height: 100vh;
 }
